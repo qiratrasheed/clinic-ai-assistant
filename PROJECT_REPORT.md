@@ -1,12 +1,4 @@
 # Project Report
-## Multi-Agent AI Assistant — Al-Shifa Medical Clinic
-
-**Student:** [Apna Naam Likho]
-**Course:** Agentic AI & Python Module
-**Instructor:** Muhammad Abdullah
-**Date:** May 2026
-
----
 
 ## 1. Business Scenario
 
@@ -151,4 +143,3 @@ modern LLM integration. The system can handle real patient
 queries for a medical clinic with proper routing, retrieval,
 and quality verification.
 
-**GitHub Repository:** [Your GitHub Link]
