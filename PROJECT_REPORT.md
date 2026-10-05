@@ -1,5 +1,4 @@
 # Project Report
-
 ## 1. Business Scenario
 
 Al-Shifa Medical Clinic is a healthcare facility located in 
