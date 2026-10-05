@@ -1,0 +1,12 @@
+Available Services at Al-Shifa Medical Clinic:
+
+1. General Checkup - Rs. 500
+2. Blood Test (CBC) - Rs. 800
+3. Sugar Test - Rs. 200
+4. Blood Pressure Check - Free
+5. X-Ray - Rs. 1500
+6. Ultrasound - Rs. 2000
+7. ECG Heart Test - Rs. 1000
+8. Vaccination - Rs. 300 to Rs. 1500
+9. Pharmacy - Available on site, open till 8 PM
+10. Ambulance Service - Available, call 0300-1234567

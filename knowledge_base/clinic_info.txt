@@ -1,0 +1,9 @@
+Clinic Name: Al-Shifa Medical Clinic
+Location: Main Bazaar, Sahiwal, Punjab, Pakistan
+Working Hours: Monday to Saturday, 9:00 AM to 6:00 PM
+Emergency Services: Available 24/7
+Phone: 0300-1234567
+
+Consultation Fee: Rs. 500
+Follow-up Fee: Rs. 300
+Emergency Fee: Rs. 1000

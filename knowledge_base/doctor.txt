@@ -1,0 +1,15 @@
+Dr. Ahmed Khan - General Physician
+Specialization: General Medicine, Fever, Flu, Infections
+Available: Monday, Wednesday, Friday - 9 AM to 2 PM
+
+Dr. Ayesha Malik - Gynecologist
+Specialization: Women Health, Pregnancy, Maternal Care
+Available: Tuesday, Thursday, Saturday - 10 AM to 4 PM
+
+Dr. Bilal Hussain - Cardiologist
+Specialization: Heart Disease, Blood Pressure, Cholesterol
+Available: Monday, Thursday - 2 PM to 6 PM
+
+Dr. Sara Ahmed - Pediatrician
+Specialization: Children Health, Vaccination, Child Diseases
+Available: Daily - 9 AM to 1 PM

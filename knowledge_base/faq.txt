@@ -1,0 +1,18 @@
+Q: How do I book an appointment?
+A: Call 0300-1234567 or visit clinic 9 AM to 5 PM.
+
+Q: Do you accept insurance?
+A: Yes, Sehat Sahulat Card and EFU Health Insurance accepted.
+
+Q: Is parking available?
+A: Yes, free parking outside the clinic.
+
+Q: What should I bring for first visit?
+A: CNIC, previous medical reports, prescription history.
+
+Q: Do you have online consultation?
+A: Yes, WhatsApp on 0300-1234567 for Rs. 300.
+
+Q: What diseases do you treat?
+A: Fever, Flu, Diabetes, Blood Pressure, Heart issues,
+   Women health, Children diseases, Skin problems.
